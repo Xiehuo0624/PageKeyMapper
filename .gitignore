@@ -1,0 +1,17 @@
+# 构建产物
+build/
+PageKeyMapper.app/
+*.app.demo/
+
+# macOS
+.DS_Store
+._*
+
+# 可选：本地签名钥匙串（绝不提交）
+*.keychain-db
+*.keychain-db-db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
